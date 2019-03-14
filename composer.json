@@ -1,0 +1,14 @@
+{
+    "name": "tawsif/contact",
+    "description": "test package for learning purposes",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tawsifkarim",
+            "email": "tawsif.karim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
